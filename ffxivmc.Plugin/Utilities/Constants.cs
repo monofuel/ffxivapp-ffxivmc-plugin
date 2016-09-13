@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace ffxivmc.Plugin.Utilities
 {
-    class C
+    class Constants
     {
-
-        public static readonly Uri Host = new Uri("https://japura.net/ffxivmc/");
+        public static readonly Uri Host = new Uri("https://ffxivmc-1361.appspot.com");
     }
 }
